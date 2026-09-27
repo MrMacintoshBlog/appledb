@@ -1,0 +1,9 @@
+{
+    "name": "Power Macintosh 9600",
+    "identifier": "67",
+    "key": "PowerMac,67-9600",
+    "arch": "PowerPC",
+    "type": "PowerMac",
+    "model": "M5433",
+    "released": "1997-02-17"
+}
