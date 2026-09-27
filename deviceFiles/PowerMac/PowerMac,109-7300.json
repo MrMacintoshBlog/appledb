@@ -1,0 +1,9 @@
+{
+    "name": "Power Macintosh 7300",
+    "identifier": "109",
+    "key": "PowerMac,109-7300",
+    "arch": "PowerPC",
+    "type": "PowerMac",
+    "model": "M3979",
+    "released": "1997-02-17"
+}
